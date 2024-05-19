@@ -9,5 +9,6 @@ Environment Variables
 JSON Schema validation
 Newman HTML Report
 
+
 ![image](https://github.com/Srikanth0u72/Project-API-testing/assets/157467246/d1d076c1-cdd3-4543-a8a8-a7784b6fdd47)
 
